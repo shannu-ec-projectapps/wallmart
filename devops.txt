@@ -3,6 +3,4 @@ my first text file.
 
 my second text file update
 
-third txt file updating
-
-hhaaiiiiiiiiiii
+third txt file updated
