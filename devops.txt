@@ -4,5 +4,3 @@ my first text file.
 my second text file update
 
 third txt file updated
-
-am adding the 4th line of this file
